@@ -1,0 +1,5 @@
+theia@theiadocker-nomnqobi:/home/project$ mkdir final_project
+theia@theiadocker-nomnqobi:/home/project/final_project$ cd final_project
+theia@theiadocker-nomnqobi:/home/project/final_project$ git clone https://github.com/ibm-developer-skills-network/oagjp-final-project-emb-ai.git
+theia@theiadocker-nomnqobi:/home/project/final_project$ cd oagjp-final-project-emb-ai
+theia@theiadocker-nomnqobi:/home/project/final_project$ ls -R
